@@ -1,4 +1,7 @@
-
+/**
+ * @tác giả: Nguyễn Đức Hoàng Java2201A(LT0822A). ITPlus
+ * @tóm tắt: Chương trình phần mềm hướng đối tượng Java, Quản Lý Nhân Viên.
+ */
 import java.util.Scanner;
 import static java.lang.System.out;
 import java.time.LocalDate;
