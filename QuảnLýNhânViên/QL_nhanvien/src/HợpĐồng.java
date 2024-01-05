@@ -1,7 +1,6 @@
 /**
- * Giao Diện Hàm Chức Năng.
- * (mang tính khái lược, chung chung: kiểu T chưa biết,
- * nó có thể là SinhVien, Dog, Cat, v.v...).
+ * @tác giả: Nguyễn Đức Hoàng Java2201A(LT0822A). ITPlus
+ * @tóm tắt: Chương trình phần mềm hướng đối tượng Java, Quản Lý Nhân Viên.
  */
 interface DS<K> {
 
